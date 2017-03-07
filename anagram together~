@@ -1,0 +1,30 @@
+1>anagram together
+2>version 1 greater than version 2
+3> rearrange array from maximum to minimum form
+4>print all aplindrom permutation of string.
+5>zigzag of string.
+****sort array->sort(arr,arr+n);
+6>strictly increasing subarray.
+7>trapping rain water.
+8>substring start and end with 1
+9>Find maximum value of Sum( i*arr[i]) with only rotations on given array allowed
+10>Rearrange an array such that ‘arr[j]’ becomes ‘i’ if ‘arr[i]’ is ‘j’
+11>***Find common elements in three sorted arrays
+12>Count the number of possible triangles
+13>****don't know how to do --->Maximum circular subarray sum.
+14> Find the minimum distance between two numbers
+15>***dont't know Bitonic Subarray
+16>sir->Submatrix Sum Queries
+17>ones and twos complement of binary string-done.
+18> binary string without and with consective one's
+19>Count strings with consecutive 1’s
+20>Frobenius coin problem->dont know what the problen is;
+****Catalan Numbers.
+22>Print all Good numbers in given range.
+23>Count number of squares in a rectangle
+24>Check if a given number is Fancy
+Q->to find frequency of each prifix in the string.
+Remove characters from the first string which are present in the second string.
+**don't know--super string.
+
+/// handshake n*(n-1)/2;

@@ -1,0 +1,3 @@
+int* arr1[8];
+int (*arr2)[8];
+int *(arr3[8]);
